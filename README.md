@@ -25,5 +25,8 @@
 * Customers gave consent to use their data 
 
 **Sorting and Filtering*** 
-* I have filtered and will only be using daily and hourly sets of data: 
+* I have filtered and will only be using daily and hourly sets of data: DailyActivity, HourlyCalories, HourlyIntensity, HourlySteps, SleepDay, and WeightLogInfo
+
+
+## Analyze
 
